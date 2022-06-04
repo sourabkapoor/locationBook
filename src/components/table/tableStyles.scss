@@ -1,0 +1,12 @@
+.tableCntr {
+  margin: 50px auto;
+  max-width: 700px;
+}
+
+.delIcon {
+  cursor: pointer;
+  
+  &:hover {
+    color: rgb(254, 61, 61)
+  }
+}
