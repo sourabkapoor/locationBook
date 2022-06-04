@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live at: https://beautiful-kulfi-a3e4c3.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
